@@ -1,9 +1,9 @@
 import { View, Text } from "react-native";
 
-export function AccountScreen() {
+export function UserLoggedScreen() {
   return (
     <View>
-      <Text>Estamos en la screen Account</Text>
+      <Text>UserLoggedScreen</Text>
     </View>
   );
 }
